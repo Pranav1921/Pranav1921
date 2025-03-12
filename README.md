@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on projects related to data analysis, machine learning models, and AI applications.
 - 📫 How to reach me:https://www.linkedin.com/in/pranavku/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: [A fun fact about yourself - e.g., "I enjoy exploring new datasets," "I'm always trying to learn a new Python library," "I love to solve algorithmic puzzles," etc.]
