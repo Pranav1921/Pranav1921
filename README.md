@@ -1,67 +1,94 @@
-<h1 align="center">✨ PRANAV K U ✨</h1>
+<div align="center">
 
-<h3 align="center">CSE (Data Science) Student | Aspiring Data Scientist</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PRANAV%20K%20U&fontSize=45&fontAlignY=35" />
+
+### 🚀 CSE (Data Science) Student | Aspiring Data Scientist
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranav1921&color=grey&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Pranav1921&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
----
-
-## 🧠 About
-
-I'm a Computer Science Engineering student specializing in **Data Science**.  
-As a fresher, I'm passionate about learning and exploring the world of data.  
-I'm eager to collaborate on beginner-friendly projects and contribute to the data science community.
-
-### 🎯 Interests
-- 📊 Data Science & Analytics  
-- 🤖 Machine Learning & AI  
-- 🗄️ Database Management  
-- 🧪 Learning New Technologies
+</div>
 
 ---
 
-## 🛠️ Skills I'm Learning
+## 🧠 About Me
 
-**Programming:** `Python`, `SQL`  
-**Databases:** `MongoDB`  
-**Tools:** `Excel`, `Jupyter Notebooks`  
-**Currently Exploring:** `Data Analysis`, `Basic Statistics`
+👋 Hi, I’m **Pranav**, a Computer Science Engineering student specializing in **Data Science**.
+
+* 🌱 Currently learning **Data Analysis, Statistics & Machine Learning basics**
+* 🧩 Love solving problems and building things step by step
+* 🤝 Looking to contribute to **beginner‑friendly open‑source projects**
+* 📈 Believe in *consistent progress over perfection*
+
+---
+
+## 🎯 Interests
+
+* 📊 Data Science & Analytics
+* 🤖 Machine Learning & AI
+* 🗄️ Databases & Backend Basics
+* 🧪 Exploring New Technologies
+
+---
+
+## 🛠️ Skills & Tools
+
+### 💻 Programming
+
+`Python` • `SQL`
+
+### 🗄️ Databases
+
+`MongoDB`
+
+### 🔧 Tools
+
+`Excel` • `Jupyter Notebook` • `Git & GitHub`
+
+### 📚 Currently Exploring
+
+`Data Analysis` • `Basic Statistics` • `APIs`
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pranav1921&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranav1921&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav1921&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-## 📅 GitHub Activity Timeline
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav1921&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 🌐 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/pranavku/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pranav1921" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center"><i>"Every expert was once a beginner."</i></p>
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranav1921&color=grey&style=flat" alt="Profile Views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav1921&theme=tokyo-night&hide_border=true" />
 </div>
+
+
+---
+
+## 🌐 Let’s Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pranavku/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Pranav1921" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *"Every expert was once a beginner — consistency makes the difference."* ✨
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
