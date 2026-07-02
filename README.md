@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=PRANAV%20K%20U&fontSize=45&fontAlignY=35" />
 
-### 🚀 CSE (Data Science) Student | Aspiring Data Scientist
+### 🚀 CSE (Data Science) Student 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Pranav1921&label=Profile%20Views&color=blueviolet&style=flat-square" />
@@ -25,7 +25,6 @@
 
 ## 🎯 Interests
 
-* 📊 Data Science & Analytics
 * 🤖 Machine Learning & AI
 * 🗄️ Databases & Backend Basics
 * 🧪 Exploring New Technologies
@@ -40,15 +39,7 @@
 
 ### 🗄️ Databases
 
-`MongoDB`
-
-### 🔧 Tools
-
-`Excel` • `Jupyter Notebook` • `Git & GitHub`
-
-### 📚 Currently Exploring
-
-`Data Analysis` • `Basic Statistics` • `APIs`
+`Postgresql`
 
 ---
 
